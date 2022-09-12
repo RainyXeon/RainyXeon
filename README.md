@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RainyXeon</h1>
 <h3 align="center">A discord bot, web developer from Vietnam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rainyxeon&label=Profile%20views&color=0e75b6&style=flat" alt="rainyxeon" /> </p>
-
 - 🔭 I’m currently working on [Dreamvast/Dreamvast-slash](https://github.com/Dreamvast/Dreamvast-slash)
 
 - 🌱 I’m currently learning **Next.js, React, Node.js, MongoDB, MySQL, discord.js, express.js**
