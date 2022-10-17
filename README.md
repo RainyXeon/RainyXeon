@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm quite interested in watching mikudayo (not Hatsune Miku)**
 
-- 💾 Website: [Dreamvast Website (React.js)](https://dreamvast.vercel.app) - [Archived Dreamvast Website (Next.js)](https://archived.dreamvast.vercel.app), 
+- 💾 Website: [Dreamvast Website (React.js)](https://dreamvast.ml) - [Archived Dreamvast Website (Next.js)](https://archived.website.dreamvast.ml), 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
