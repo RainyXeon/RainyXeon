@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RainyXeon</h1>
 <h3 align="center">A discord bot, web developer from Vietnam.</h3>
 
-- 🔭 I’m currently working on [RainyXeon/Cylane](https://github.com/RainyXeon/Cylane)
+- 🔭 I’m currently working on [RainyXeon/ByteBlaze](https://github.com/RainyXeon/ByteBlaze)
 
 - 🌱 I’m currently learning **Next.js, React, Node.js, MongoDB, MySQL, discord.js, express.js**
 
