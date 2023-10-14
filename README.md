@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RainyXeon/ByteBlaze](https://github.com/RainyXeon/ByteBlaze)
 
-- 🌱 I’m currently learning **Next.js, React, Node.js, MongoDB, MySQL, discord.js, express.js**
+- 🌱 I’m currently learning **Dart**
 
 - 👯 I’m looking to collaborate on [Adivise/NanoSpacePlus](https://github.com/Adivise/NanoSpacePlus)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dreamvast](https://github.com/Dreamvast)
 
-- 💬 Ask me about **Next.js, Node.js, MongoDB, discord.js**
+- 💬 Ask me about **Next.js, React, Node.js, MongoDB, MySQL, discord.js, express.js**
 
 - 📫 How to reach me **dreamvast@outlook.com**
 
