@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Next.js, React, Node.js, MongoDB, MySQL, discord.js, express.js**
 
-- 📫 How to reach me **dreamvast@outlook.com**
+- 📫 How to reach me **dreamvast@outlook.com**, **rainyxeon (Discord)**
 
 - ⚡ Fun fact **I'm quite interested in watching mikudayo (not Hatsune Miku)**
 
