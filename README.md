@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Use discord username: rainyxeon or server invite link below**
 
-- ⚡ Fun fact **I love anime but don't use anime image for my avatar.**
+- ⚡ Fun fact **I love anime but don't use anime image for my avatar. I love Docker 🐳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
