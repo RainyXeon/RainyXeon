@@ -27,7 +27,18 @@ Here: <https://rainyxeon.github.io>
 
 ## Contacts
 
-If you wanna contact me, feel free to send a DM in discord (@rainyxeon) or email: <rainyxeon@gmail.com>. I'm willing to chat with you :)
+If you wanna contact me, feel free to send a DM in discord (@rainyxeon), [telegram (RainyXeon)](https://t.me/RainyXeon) or email: <rainyxeon@gmail.com>. I'm willing to chat with you :)
+
+## Donation
+
+- **Metamask** `0x5A9100975BF220007C10Df655dF3D93b00e4205f`
+- **Accepted Coin:**
+  - ETH
+  - USDT (ERC20)
+  - USDT (BEP20)
+  - USDC (ERC20)
+  - USDT (BEP20)
+- **Buymeacoffee:** http://coff.ee/RainyXeon
 
 ## Some funfact about me
 
