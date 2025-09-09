@@ -1,48 +1,73 @@
 # Howdy my friend 👋
 
-I'm **RainyXeon** (call me **rainy** because I love it), a full stack developer from Vietnam, a small country with technological prospects.
-I started my software development journey in the mid-2020s with the dream of contributing to the open source community.
+I'm **RainyXeon** (just call me **Rainy 🌧️**), a full-stack developer from Vietnam.  
+I started my coding journey in the mid-2020s with one dream: **to build and share useful open-source tools**.
 
-## Languages and tools that I know
+---
 
-### Programming language
+## 🛠️ Tech Stack
 
-I can do nearly everything, but I do best at `JavaScript (Vanilla / NodeJS)` and `Lua (Luvit / Vanilla)`.
-I'm currently learning `Dart` for `Flutter`, `C`, `C#` and `Kotlin`.
+### 💻 Languages
+- **Best at:** `JavaScript (Vanilla / Node.js)` • `Lua (Luvit / Vanilla)`
+- **Learning:** `Dart (Flutter)` • `C` • `C#` • `Kotlin`
 
-### Databases
+### 🗄️ Databases
+- **Experience with:** `MongoDB` • `MySQL`
+- **Currently learning:** `PostgreSQL` • `SQLite`
+- **Favorite:** `PostgreSQL 💙`
 
-For databases, I mostly know `mongoDB`, `MySQL` and currently learning `PostgreSQL` and `SQlite`.
-But to be honest, my favorite is `PostgreSQL`
+### ⚡ Frameworks
+- Strong: `Express.js` • `React.js`
+- Dabble in: `Nest.js`
+- Always curious to explore more 🚀
 
-### Frameworks
+---
 
-My knowledge about frameworks is wide, but good at `ExpressJS`, `ReactJS`, `NuxtJS` and a bit `NestJS`
+## 📂 Featured Projects
 
-And whenever possible, looking to learn more and more things. (Like Pedro)
+- 🎵 **[ByteBlaze](https://github.com/RainyXeon/ByteBlaze)**  
+  A versatile Discord music bot with rhythm and melody for your server. *(TypeScript)*
 
-## My portfolio
+- 🎶 **[Rainlink](https://github.com/RainyXeon/Rainlink)**  
+  A stable and feature-rich Lavalink wrapper. *(TypeScript)*
 
-Here: <https://rainyxeon.github.io>
+- 📡 **[LavaStatusMonitor](https://github.com/RainyXeon/LavaStatusMonitor)**  
+  Real-time Lavalink server monitoring bot. *(TypeScript)*
 
-## Contacts
+- ⚙️ **[Mutsuki](https://github.com/RainyXeon/Mutsuki)**  
+  Framework powering ByteBlaze, inspired by NanoSpace. *(TypeScript)*
 
-If you wanna contact me, feel free to send a DM in discord (@rainyxeon), [telegram (RainyXeon)](https://t.me/RainyXeon) or email: <rainyxeon@gmail.com>. I'm willing to chat with you :)
+- 🔧 **[android_kernel_xiaomi_ruby](https://github.com/RainyXeon/android_kernel_xiaomi_ruby)**  
+  Custom kernel for Redmi Note 12 Pro 5G (ruby), tuned for power saving. *(C)*
 
-## Donation
+*(More projects pinned on my profile!)*
 
-- **Metamask** `0x5A9100975BF220007C10Df655dF3D93b00e4205f`
-- **Accepted Coin:**
-  - ETH
-  - USDT (ERC20)
-  - USDT (BEP20)
-  - USDC (ERC20)
-  - USDT (BEP20)
-- **Buymeacoffee:** http://coff.ee/RainyXeon
+---
 
-## Some funfact about me
+## 🌐 Portfolio
+Check out my work: [**rainyxeon.github.io**](https://rainyxeon.github.io)
 
-- Arisu just a code name for DeepinRain production, not affiliated with other character
-- I have a history for my official nickname, like: Zero -> XeonDev -> XeonDex -> RainyXeon
-- My logo first designed in 2018, so its 6 years old now :0
-- My life powered by salmon :) (Ofc with everyone I love)
+---
+
+## 📬 Contact
+- Discord: **@rainyxeon**
+- Telegram: [RainyXeon](https://t.me/RainyXeon)
+- Email: <rainyxeon@gmail.com>
+
+---
+
+## ☕ Support My Work
+- **Metamask:** `0x5A9100975BF220007C10Df655dF3D93b00e4205f`
+- **Coins Accepted:** ETH • USDT (ERC20/BEP20) • USDC (ERC20)
+- **Buy me a coffee:** [coff.ee/RainyXeon](http://coff.ee/RainyXeon)
+
+---
+
+## 🎲 Fun Facts
+- **Arisu** is just a codename for DeepinRain production 🌧️  
+- My nickname history: **Zero → XeonDev → XeonDex → RainyXeon**  
+- My logo was first designed in **2018** (6+ years old now 🎉)  
+- My life is powered by **salmon 🐟 and the people I love**  
+
+---
+✨ _"One day, he sought the path that winds back to his ancient land..."_ ✨
