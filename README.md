@@ -8,7 +8,7 @@ I started my coding journey in the mid-2020s with one dream: **to build and shar
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- **Best at:** `JavaScript (Vanilla / Node.js)` • `Lua (Luvit / Vanilla)`
+- **Best at:** `TypeScript` • `JavaScript (Vanilla / Node.js)` • `Lua (Luvit / Vanilla)`
 - **Learning:** `Dart (Flutter)` • `C` • `C#` • `Kotlin`
 
 ### 🗄️ Databases
@@ -20,6 +20,33 @@ I started my coding journey in the mid-2020s with one dream: **to build and shar
 - Strong: `Express.js` • `React.js`
 - Dabble in: `Nest.js`
 - Always curious to explore more 🚀
+
+### 🔧 Tools
+- Strong: `git` • `CI/CD` • `FFmpeg`
+
+---
+
+## 🧠 What I Know
+
+Beyond languages and frameworks, I have hands-on experience with:
+
+- 🌐 **Networking & Protocols**:  
+  Understanding how **HTTP/1.1** and **HTTP/2 streaming** work, including request multiplexing and streaming optimizations.
+
+- 🔄 **Data Flow & Processing**:  
+  Comfortable with **readers/writers/transformers**, data piping, and building efficient data streams.
+
+- 🛠️ **Version Control Mastery**:  
+  Can **manipulate and rewrite Git history**, resolve complex merges/rebases, and maintain clean commit structures.
+
+- 🎨 **Web Design**:  
+  Able to design and implement UIs both in **React.js** and **raw HTML/CSS/JavaScript** (without relying on frameworks).
+
+- 🎵 **Bot & Infra Development**:  
+  Experience creating **Discord music bots**, **Lavalink clients**, and even a **from-scratch Lavalink alternative (LunaStream)**.
+
+- 🐧 **Systems & Kernel**:  
+  Custom kernel building, tweaking SELinux policies, and Android device kernel optimization (e.g., Redmi Note 12 Pro 5G).
 
 ---
 
