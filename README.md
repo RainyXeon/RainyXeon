@@ -3,8 +3,6 @@
 I'm **RainyXeon** (just call me **Rainy 🌧️**), a full-stack developer from Vietnam.  
 I started my coding journey in the mid-2020s with one dream: **to build and share useful open-source tools**.
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -23,8 +21,6 @@ I started my coding journey in the mid-2020s with one dream: **to build and shar
 
 ### 🔧 Tools
 - Strong: `git` • `CI/CD` • `FFmpeg`
-
----
 
 ## 🧠 What I Know
 
@@ -48,23 +44,21 @@ Beyond languages and frameworks, I have hands-on experience with:
 - 🐧 **Systems & Kernel**:  
   Custom kernel building, tweaking SELinux policies, and Android device kernel optimization (e.g., Redmi Note 12 Pro 5G).
 
----
-
 ## 📂 Featured Projects
 
-- 🎵 **[ByteBlaze](https://github.com/RainyXeon/ByteBlaze)**  
+- 🎵 **[ByteBlaze](https://github.com/DeepinRain/ByteBlaze)**  
   A versatile Discord music bot with rhythm and melody for your server. *(TypeScript)*
 
-- 🎶 **[Rainlink](https://github.com/RainyXeon/Rainlink)**  
+- 🎶 **[Rainlink](https://github.com/DeepinRain/Rainlink)**  
   A stable and feature-rich Lavalink wrapper. *(TypeScript)*
 
-- 📡 **[LavaStatusMonitor](https://github.com/RainyXeon/LavaStatusMonitor)**  
+- 📡 **[LavaStatusMonitor](https://github.com/DeepinRain/LavaStatusMonitor)**  
   Real-time Lavalink server monitoring bot. *(TypeScript)*
 
-- ⚙️ **[Mutsuki](https://github.com/RainyXeon/Mutsuki)**  
-  Framework powering ByteBlaze, inspired by NanoSpace. *(TypeScript)*
+- 🧪 **[BShieldExperimentation](https://github.com/DeepinRain/BShieldExperimentation)**  
+  Experimentation do research on how BShield works and bypass it. *(Markdown)*
 
-- 🔧 **[android_kernel_xiaomi_ruby](https://github.com/RainyXeon/android_kernel_xiaomi_ruby)**  
+- 🔧 **[moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby)**  
   Custom kernel for Redmi Note 12 Pro 5G (ruby), tuned for power saving. *(C)*
 
 *(More projects pinned on my profile!)*
