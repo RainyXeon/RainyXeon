@@ -58,7 +58,7 @@ Beyond languages and frameworks, I have hands-on experience with:
 - 🧪 **[BShieldExperimentation](https://github.com/DeepinRain/BShieldExperimentation)**  
   Experimentation do research on how BShield works and bypass it. *(Markdown)*
 
-- 🔧 **[moonwake_kernel_xiaomi_ruby](https://github.com/DPR-MoonWake/moonwake_kernel_xiaomi_ruby)**  
+- 🔧 **[moonwake_kernel_xiaomi_ruby](https://github.com/XDL-MoonWake/moonwake_kernel_xiaomi_ruby)**  
   Custom kernel for Redmi Note 12 Pro 5G (ruby), tuned for power saving. *(C)*
 
 *(More projects pinned on my profile!)*
