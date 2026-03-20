@@ -46,16 +46,16 @@ Beyond languages and frameworks, I have hands-on experience with:
 
 ## 📂 Featured Projects
 
-- 🎵 **[ByteBlaze](https://github.com/DeepinRain/ByteBlaze)**  
+- 🎵 **[ByteBlaze](https://github.com/DeepLunaria/ByteBlaze)**  
   A versatile Discord music bot with rhythm and melody for your server. *(TypeScript)*
 
-- 🎶 **[Rainlink](https://github.com/DeepinRain/Rainlink)**  
+- 🎶 **[Rainlink](https://github.com/DeepLunaria/Rainlink)**  
   A stable and feature-rich Lavalink wrapper. *(TypeScript)*
 
-- 📡 **[LavaStatusMonitor](https://github.com/DeepinRain/LavaStatusMonitor)**  
+- 📡 **[LavaStatusMonitor](https://github.com/DeepLunaria/LavaStatusMonitor)**  
   Real-time Lavalink server monitoring bot. *(TypeScript)*
 
-- 🧪 **[BShieldExperimentation](https://github.com/DeepinRain/BShieldExperimentation)**  
+- 🧪 **[BShieldExperimentation](https://github.com/DeepLunaria/BShieldExperimentation)**  
   Experimentation do research on how BShield works and bypass it. *(Markdown)*
 
 - 🔧 **[moonwake_kernel_xiaomi_ruby](https://github.com/XDL-MoonWake/moonwake_kernel_xiaomi_ruby)**  
@@ -66,7 +66,7 @@ Beyond languages and frameworks, I have hands-on experience with:
 ---
 
 ## 🌐 Portfolio
-Check out my work: [**rainyxeon.github.io**](https://rainyxeon.github.io)
+Check out my work: <https://deeplunaria.github.io/members/rainyxeon/>
 
 ---
 
@@ -78,7 +78,7 @@ Check out my work: [**rainyxeon.github.io**](https://rainyxeon.github.io)
 ---
 
 ## 🎲 Fun Facts
-- **Arisu** is just a codename for DeepinRain production 🌧️  
+- **Arisu** is just a codename for DeepLunaria Foundation  
 - My nickname history: **Zero → XeonDev → XeonDex → RainyXeon**  
 - My logo was first designed in **2018** (6+ years old now 🎉)  
 - My life is powered by **salmon 🐟 and the people I love**  
