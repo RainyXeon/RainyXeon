@@ -3,7 +3,7 @@
 I'm RainyXeon (just call me Rainy), a full-stack developer from Vietnam. I started my coding journey in the mid-2020s with one dream: to build and share useful open-source tools.
 
 🚀 **Portfolio (projects, writeups & experiments):**  
-👉 https://deeplunaria.pages.dev/rainyxeon
+👉 https://deeplunaria.github.io//rainyxeon
 
 ## 🧠 My Focus Is:
 
