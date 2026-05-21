@@ -27,3 +27,35 @@ I'm RainyXeon (just call me Rainy), a full-stack developer from Vietnam. I start
 - Email: <rainyxeon@gmail.com>
 - Signal: rainyxeon.15
 - Blue Sky: [@rainyxeon.bsky.social](https://bsky.app/profile/rainyxeon.bsky.social)
+
+## 💸 Crypto Donations (Buy Rainy some water)
+
+If you'd like to support my work and buy Rainy some water 🫗
+
+### Recommended
+**Base (USDC / USDT / ETH)**  
+
+```
+0xD573b1195Dcf7AAd6C45Afa57917f2364e808E04
+```
+
+### Bitcoin
+**BTC (SegWit / Standard)**
+
+```
+bc1q9vzvzwl5gqp0q7u0ejj50mk9fvuv2jyx8uxpka
+```
+
+**BTC (Silent Payments)**  
+For improved on-chain privacy.
+
+```
+sp1qqf8aff98aparrdk2f8raa25vhv2x58nwjffuhwtyweeaf6q0zedsxq4m08s48xw48vchzks5y2cqtl3kktftncs9l06t7qe86usnu388uq0kjufj
+```
+
+### Privacy Option
+**Monero (XMR)**
+
+```
+8BhSqHuYT12ChnVrK1HsJwKnK6cgNbLHPE616i6Sp7hbBrudKWWnsUfCrCaNUUvibB4YHzBoasq4GCBGPvyeNgcrCiwdHpt
+```
