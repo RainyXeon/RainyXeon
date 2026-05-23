@@ -45,17 +45,3 @@ If you'd like to support my work and buy Rainy some water 🫗
 ```
 bc1q9vzvzwl5gqp0q7u0ejj50mk9fvuv2jyx8uxpka
 ```
-
-**BTC (Silent Payments)**  
-For improved on-chain privacy.
-
-```
-sp1qqf8aff98aparrdk2f8raa25vhv2x58nwjffuhwtyweeaf6q0zedsxq4m08s48xw48vchzks5y2cqtl3kktftncs9l06t7qe86usnu388uq0kjufj
-```
-
-### Privacy Option
-**Monero (XMR)**
-
-```
-8BhSqHuYT12ChnVrK1HsJwKnK6cgNbLHPE616i6Sp7hbBrudKWWnsUfCrCaNUUvibB4YHzBoasq4GCBGPvyeNgcrCiwdHpt
-```
